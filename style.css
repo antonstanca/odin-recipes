@@ -1,0 +1,31 @@
+h1 {
+    color: rgb(12, 101, 101);
+    text-align: center;
+    background-color: #FFF9CA;
+}
+
+ul {
+    background-color: #FFDEB4;
+    font-weight: bold;
+}
+
+h2 {
+    color: #B2A4FF;
+    font-style: italic;
+}
+
+ol {
+    background-color: #FFB4B4;
+}
+
+.img_class {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: bisque;
+}
+
+.img_recipe {
+    width: 400px;
+    height: auto;
+}
